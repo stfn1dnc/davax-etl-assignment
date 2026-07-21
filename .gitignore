@@ -1,0 +1,42 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+*.local.env
+
+# Input and generated data
+data/input/*
+data/processed/*
+data/rejected/*
+
+# Preserve directory structure
+!data/input/.gitkeep
+!data/processed/.gitkeep
+!data/rejected/.gitkeep
+
+# Logs
+logs/
+*.log
+
+# IDE local files
+.vscode/*.local.json
+.idea/
+
+# Oracle / SQL Developer local files
+.system/
+*.dmp
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
