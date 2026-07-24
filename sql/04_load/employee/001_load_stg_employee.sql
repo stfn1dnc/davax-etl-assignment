@@ -1,40 +1,37 @@
-INSERT INTO staging.stg_employee
+MERGE INTO target.dim_project target
+USING
 (
-    employee_id,
-    employee_name,
-    grade,
-    discipline,
-    line_manager,
-    delivery_unit,
-    validation_status,
-    validation_message,
+    SELECT DISTINCT
+        UPPER(TRIM(raw.project_code_raw)) AS project_code,
+        raw.dataset_name,
+        MAX(raw.process_timestamp) AS process_timestamp
+    FROM sources.worked_hours_raw raw
+    WHERE raw.project_code_raw IS NOT NULL
+      AND TRIM(raw.project_code_raw) IS NOT NULL
+    GROUP BY
+        UPPER(TRIM(raw.project_code_raw)),
+        raw.dataset_name
+) source
+ON
+(
+    target.project_code = source.project_code
+)
+WHEN MATCHED THEN
+UPDATE SET
+    target.dataset_name = source.dataset_name,
+    target.process_timestamp = source.process_timestamp
+WHEN NOT MATCHED THEN
+INSERT
+(
+    project_code,
     dataset_name,
-    source_file_name,
     process_timestamp
 )
+VALUES
+(
+    source.project_code,
+    source.dataset_name,
+    source.process_timestamp
+);
 
-SELECT
-
-    LOWER(TRIM(employee_id)),
-
-    TRIM(employee_name),
-
-    UPPER(TRIM(grade)),
-
-    UPPER(TRIM(discipline)),
-
-    TRIM(line_manager),
-
-    UPPER(TRIM(delivery_unit)),
-
-    'VALID',
-
-    NULL,
-
-    dataset_name,
-
-    source_file_name,
-
-    process_timestamp
-
-FROM sources.employee_master_raw;
+COMMIT;
