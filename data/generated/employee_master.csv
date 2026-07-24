@@ -1,0 +1,352 @@
+employee_name,employee_id,grade,discipline,line_manager,delivery_unit
+Adelin Andrei Fulop,adelin-andrei.fulop@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Adelina Patlatii,adelina.patlatii@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Adina Denisa Horj,adina-denisa.horj@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Adina Gheorghevici,adina.gheorghevici@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Adrian Matean,adrian.matean@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Adrian Vasile Vladescu,adrian-vasile.vladescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Adrian Visan,adrian.visan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Adriana Maria Vadean,adriana-maria.vadean@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alessia-Elena Rados,alessia-elena.rados@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alex Rares Roman,alex-rares.roman@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandra Elena Pitaru,alexandra-elena.pitaru@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandra Simona Danca,alexandra.danca@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandra Simona Danca,alexandra-simona.danca@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandra Zamfir,alexandra.zamfir@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Alin Potanga,alexandru-alin.potanga@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Baba,alexandru.baba@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Bardasu,alexandru.bardasu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Burlica,alexandru.burlica@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Catrinescu,alexandru.catrinescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Chelaru,alexandru.chelaru@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Cinipa,alexandru.cinipa@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Cristian Grajdeanu,alexandru-cristian.grajdeanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Dumitru Ionita,alex.ionita@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Duta,alexandru.duta2@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Edves,alexandru.edves@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Gabriel Cazan,alexandru.cazan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Lazar,alexandru.lazar@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Marian Armanu,alexandru-marian.armanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Mihai Matei,alexandru-mihai.matei@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Mirea,alexandru.mirea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Munteanu,alexandru.munteanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Panainte,alexandru.panainte@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Pestritu,alexandru.pestritu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Serban,alexandru.serban2@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Tarcan,alexandru.tarcan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Toma,alexandru.toma@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Topan-Farcau,alexandru.topan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Zagan,alexandru.zagan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alexandru Zosin,alexandru.zosin@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alice Tache,alice.tache@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alin Avram,alin.avram@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alin Constantin Florescu,alin-constantin.florescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Alina Trincu,alina.trincu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ana Ciobanu,ana.ciobanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ana Stefania Serbanoiu,ana-stefania.serbanoiu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Anca Elena Ilie,anca-elena.ilie@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Anca Vasilica Iacob,anca-vasilica.iacob@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andra-Maria Petcu,andra-maria.petcu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrada Maria Tinta,andrada-maria.tinta@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andreea Cacenschi,andreea.cacenschi@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andreea Cront,andreea.cront@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andreea Gabriela Pop,andreea-gabriela.pop@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andreea Grecu,andreea.grecu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andreea Grecu,andreea.grecu2@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andreea Maria Monete,andreea-maria.monete@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andreea Marina Son,andreea-marina.son@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andreea-Raluca Neagu,andreea-raluca.neagu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei Alexandru Gheorghe,andrei-alexandru.gheorghe@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei Alin Socoteala,andrei-alin.socoteala@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei Andries,andrei.andries@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei Apostol,andrei.apostol@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei Bogdan Aluculesei,andrei-bogdan.aluculesei@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei George Avram,andrei-george.avram@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei Ionascu,andrei.ionascu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei L Popovici,andrei.popovici2@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei Madalin Diaconu,andrei-madalin.diaconu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei Margelatu,andrei.margelatu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei Mihnea,andrei.mihnea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei Octavian Minca,andrei-octavian.minca@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei Titus Pavel,andrei-titus.pavel@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei Tudor Grumazescu,andrei-tudor.grumazescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei Tudor Mirza,andrei-tudor.mirza@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei Vataselu,andrei.vataselu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Andrei-Alexandru Midus,andrei-alexandru.midus@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Angel David Palihovici,angel-david.palihovici@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Anton Calin Stroia,anton-calin.stroia@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ariana Casandra Olaru,ariana-casandra.olaru@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Armin Andrei Chanchian,armin-andrei.chanchian@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Aron Domokos Telegdy,aron.telegdy@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Arthur Negosanu,arthur.negosanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Attila Szasz,attila.szasz@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Augustin Dumitru Sasu,augustin-dumitru.sasu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Beniamin Cioban,beniamin.cioban@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Bianca Anamaria Chiorean,bianca-anamaria.chiorean@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Bianca Maria Lazar,bianca-maria.lazar@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Bianca Popescu,bianca.popescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Bogdan Cristian Marcu,bogdan-cristian.marcu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Bogdan Gargu,bogdan.gargu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Bogdan Ionut Tibuleac,bogdan-ionut.tibuleac@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Bogdan Nicolae Cotta,bogdan-nicolae.cotta@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Bogdan Patrania,bogdan.patrania@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Bogdan Vasile Spilevoi,bogdan-vasile.spilevoi@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Botond Ors Solyom,botond-ors.solyom@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Calin Ciobanu,calin.ciobanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Camelia Stoica,camelia.stoica@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Carmen-Gabriela Nadragea,carmen-gabriela.nadragea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Catalin Festeu,catalin.festeu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Catalin George Adrian Otet,catalin-george-adrian.otet@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Catalin Ursu,catalin.ursu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Celia Ciurchil-Giurgiu,celia.ciurchil@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Cerasela Nicola Soare,cerasela-nicola.soare@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Cezara Teofana Aprofirei,cezara-teofana.aprofirei@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ciprian Serbu,ciprian.serbu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Claudiu Marinescu,claudiu.marinescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Constantin Bogdan Moga,constantin-bogdan.moga@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Constantin Voicu,constantin.voicu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Cornel Adrian Pop,cornel-adrian.pop@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Cornelia Cojocari,cornelia.cojocari@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Cosmin Adrian Neamtiu,cosmin-adrian.neamtiu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Cosmin Carp,cosmin.carp@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Cosmin Chirazi,cosmin.chirazi@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Cosmin Felecanu,cosmin.felecanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Cosmin Gabriel Mirea,cosmin-gabriel.mirea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Cosmin Gabriel Petriuc,cosmin-gabriel.petriuc@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Cosmin-Nicusor Brumariu,cosmin-nicusor.brumariu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Costin Manolescu,costin.manolescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Costina Vanghele,costina.vanghele@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Cristian Ghiuta,cristian.ghiuta@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Cristian Valentin Alexa,cristian-valentin.alexa@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Cristiana Ioana Apastinei,cristiana-ioana.apastinei@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Csilla Boglarka Nagy,csilla-boglarka.nagy@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Dan Teodor Buzoianu,dan-teodor.buzoianu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Daniel Antoniu Dumitru,daniel-antoniu.dumitru@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Daniel Kewin Chifa,daniel-kewin.chifa@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Daniel Rosu,daniel.rosu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Daniel Rotaru,daniel.rotaru@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Daniel-Ionel Beg,daniel-ionel.beg@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Daniela Maria Pascan,daniela-maria.pascan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Daniela Munteanu,daniela.munteanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Daria Alexia Irimie,daria-alexia.irimie@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Daria Craciun,daria.craciun@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Daria Lupu Dima,daria.lupu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Darius Cosmin Vararean,darius-cosmin.vararean@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Darius Cosmin Vararean,darius.vararean@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Darius Dinu,darius.dinu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Darius Fratila,darius.fratila@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Darius Margarit,darius.margarit@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Darius-Cristian Gherle,darius-cristian.gherle@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+David Postolea,david.postolea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+David Serban,david.serban@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Delia Tudor,delia.tudor@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Denis Ivan,denis.ivan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Denis Roca,denis.roca@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Denis-Alexandru Antonescu,denis-alexandru.antonescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Denis-Mihai Mateas,denis-mihai.mateas@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Denisa Elena Stolniceanu,denisa-elena.stolniceanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Denisa Ibanescu,denisa.ibanescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Denisa Lutic,denisa.lutic@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Denisa Maria Gorea,denisa-maria.gorea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Diana Cristina Mocan,diana-cristina.mocan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Diandra Fechita,diandra.fechita@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Dragos Alexandru Ion,dragos-alexandru.ion@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Dragos Badarau,dragos.badarau@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Dragos Ionut Talaba,dragos-ionut.talaba@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Dragos Maxim,dragos.maxim@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Dragos Vatra,dragos.vatra@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Dumitru Andrei Iroftei,dumitru-andrei.iroftei@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Eduard George Stan,eduard-george.stan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Eduard Stefan Mariniuc,eduard-stefan.mariniuc@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Emanuel Luculescu,emanuel.luculescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Emanuela Lupancu,emanuela.lupancu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Emma Simina Muresan,emma-simina.muresan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Eric Marian Dascalu,eric-marian.dascalu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Fabian Iordache,fabian.iordache@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Felix Cosmin Orga,felix-cosmin.orga@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ferdinand Alexandru Cabat,ferdinand-alexandru.cabat@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Filip Craciun,filip.craciun@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Flora Balogh,flora.balogh@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Florin Nita,florin.nita@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Florina Eugenia Hategan,florina.hategan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Florina Eugenia Hategan,florina---eugenia.hategan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Gabriel Alexandru Nedelcu,gabriel-alexandru.nedelcu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Gabriel Firisar,gabriel.firisar@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Gabriela Casandra Pitu,gabriela-casandra.pitu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Gabriela Miruna Stan,gabriela-miruna.stan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Gabriela-Sidonia Ciontolac,gabriela-sidonia.ciontolac@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+George Andrei Necula,george-andrei.necula@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+George Eduard Achiriloaei,george-eduard.achiriloaei@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+George Iulian Stoian,george-iulian.stoian@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+George Nicolae Botos,george-nicolae.botos@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+George Patrasc,george.patrasc@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+George Stefan Bodogae,george-stefan.bodogae@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+George-Catalin Ghiold,george-catalin.ghiold@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Gheorghe-Cristian Terovan,gheorghe-cristian.terovan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Huba Nemet,huba.nemet@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Iasmina Pagu,iasmina-andra.pagu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ilinca Maria Popovici,ilinca-maria.popovici@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ioan Agape,ioan.agape@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ioan Sebastian Muresan,ioan-sebastian.muresan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ioana Alexa,ioana.alexa@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ioana Alexia Popa,ioana-alexia.popa@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ioana Botezatu,ioana.botezatu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ioana Marc,ioana.marc2@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ioana Victoria Zinveliu,ioana-victoria.zinveliu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ionut Birsan,ionut.birsan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ionut Popescu,ionut.popescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ionut Vlad Cira,ionut-vlad.cira@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Irina Morosanu,irina.morosanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Irina Vasilita,irina.vasilita@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Iulia Olivia Cipleu,iulia-olivia.cipleu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Iuliana Elena Rusu,iuliana-elena.rusu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Iuliana Raluca Butnariu,iuliana-raluca.butnariu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Iulius Stefan Ambros,iulius-stefan.ambros@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Iustin-Mihai Stanciu,iustin-mihai.stanciu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Laszlo Carlos Fodor,laszlo-carlos.fodor@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Laura Andrada Ciobanu,laura-andrada.ciobanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Laura Rusanescu,laura.rusanescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Laurentiu Fratila,laurentiu.fratila@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Lavinia Avram,lavinia.avram@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Liviu Istrate,liviu.istrate2@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Lorena Maria Buzea,lorena-maria.buzea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Lucian Vatamanu,lucian.vatamanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Luigi Emanuel Arama,luigi-emanuel.arama@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Luisa Yi Qing Yang,luisa-yi-qing.yang@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Luka Popovici,luka.popovici@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Madalina Birtu,madalina.birtu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Madalina Daiana Gligan,madalina-daiana.gligan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Madalina Demian,madalina.demian@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Madalina Puia,madalina.puia@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Manuel Lazar,manuel.lazar@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Marcos Dimitris Fetcu,marcos-dimitris.fetcu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Maria Camelia Raicu,maria-camelia.raicu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Maria Iulia Zdrenghea,maria-iulia.zdrenghea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Maria Madalina Olaru,maria-madalina.olaru@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Maria Mihaela Bradea,maria-mihaela.bradea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Maria-Ioana Fuerea,maria-ioana.fuerea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mariana Ionela Muntian,mariana-ionela.muntian@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Marius Beschieru,marius.beschieru@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Matei Micu,matei-mihai.micu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Matei Tatar,matei.tatar@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mihai Alexandru Ionel,mihai-alexandru.ionel@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mihai Alexandru Militaru,mihai-alexandru.militaru@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mihai Cristian Tabarcea,mihai-cristian.tabarcea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mihai Maciuc,mihai.maciuc@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mihai Negrea,mihai.negrea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mihai-Alexandru Birziloiu,mihai-alexandru.birziloiu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mihaly Richard Teutsch,mihaly-richard.teutsch@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mihnea Amihailesei,mihnea.amihailesei@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mihnea Daniel Popescu,mihnea-daniel.popescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mihnea Sebastian Ilie Encean,mihnea-sebastian-ilie.encean@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mihnea-Alexandru Pele,mihnea-alexandru.pele@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mircea Stefan Pop,mircea-stefan.pop@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mirela-Magdalena Catrina,mirela-magdalena.catrina@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Miruna Curduman,miruna.curduman@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Mozes Csaszar,mozes.csaszar@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Name,email,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Nicola-Diana Sincaru,nicola-diana.sincaru@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Nicolae Vasile Veciunca,nicolae-vasile.veciunca@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Noemi Szidonia Szilagyi,noemi-szidonia.csegezi@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Oana-Maria Danciu,oana-maria.danciu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Octavian Cojocariu,octavian.cojocariu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Octavian Paul Ilies,octavian-paul.ilies@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Patric Caliman,patric.caliman@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Patricia Costras,patricia.costras@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Paul Valentin Vela,paul.vela@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Paul Valentin Vela,paul-valentin.vela@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Petru Adelin Cojocaru,petru-adelin.cojocaru@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Polina Ciumac,polina.ciumac@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Radu Branici,radu.branici@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Radu Ioan Maris,radu-ioan.maris@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Radu Ioan Stoica,radu-ioan.stoica@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Radu Nicolae,radu.nicolae@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Radu Nicolae,radu-mihai.nicoale@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Rafael Andries,rafael.andries@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Rafael Ionut Stefanache,rafael-ionut.stefanache@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Raluca Elisa Butiurca,raluca-elisa.butiurca@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Raluca Roiban,raluca.roiban@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Rares Agachi,rares.agachi@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Rares Alexandru Iancu,rares-alexandru.iancu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Rares Anton Brezeanu,rares-anton.brezeanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Rares Anton Brezeanu,rares.brezeanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Rares Ciprian Balan,rares-ciprian.balan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Rares Dascalu,rares.dascalu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Rares Gabriel Margarint,rares-gabriel.margarint@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Rares Muresan,rares.muresan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Rares Stefan Cazan,rares-stefan.cazan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Raul Birsan,raul.birsan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Raul Gabriel Chiorean,raul-gabriel.chiorean@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Raul Mihai Rusu,raul-mihai.rusu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Razvan Azoitei,razvan.azoitei@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Razvan Dumitru,razvan.dumitru@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Razvan Niculae,razvan.niculae@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Razvan Petru Leonte,razvan-petru.leonte@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Reka Katalin Darko,reka-katalin.darko@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Remus Mihai Prodan,remus-mihai.prodan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Rita Timea Torok,rita-timea.torok@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Robert Alexandru Badea,robert-alexandru.badea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Robert Catalin Franciuc,robert-catalin.franciuc@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Robert Cristian,robert.cristian@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Robert Erno Eminovici,robert-erno.eminovici@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Robert Fedus,robert.fedus@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Robert Negre,robert.negre@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Robert-Cosmin Tudorache,robert-cosmin.tudorache@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Robert-Viorel Lazarov,robert-viorel.lazarov@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Rodica Elena Rosca,rodica-elena.rosca@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Ruben Daniel Pasca,ruben-daniel.pasca@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Sabin Andrei Popa,sabin-andrei.popa@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Sabin Chirila,sabin.chirila@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Sanda Dobrenco,sanda.dobrenco@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Sebastian Cristian Sleam,sebastian-cristian.sleam@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Sebastian Ionel Filipovici,sebastian-ionel.filipovici@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Sebastian Popa,sebastian.popa2@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Serafim Uliuliuc,serafim.uliuliuc@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Serban Marian Precup,serban-marian.precup@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Sergiu Ungureanu,sergiu.ungureanu2@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Silviu Mihail Pavel,silviu-mihail.pavel@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Silviu Vasilica Luta,silviu-vasilica.luta@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Simona Boicu,simona.boicu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Sorin Cristian Miron,sorin-cristian.miron@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Stefan Cotos,stefan.cotos@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Stefan Daniel Ionita,stefandaniel.ionita@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Stefan Gabriel Verde,stefan.verde@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Stefan Gabriel Verde,stefan-gabriel.verde@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Stefan Liute,stefan.liute@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Stefan Nicolae Gheorghiu,stefan-nicolae.gheorghiu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Stefan Stescu,stefan.stescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Stefan Tiberiu Paduraru,stefan-tiberiu.paduraru@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Stefan-Claudiu Bulintis,stefan-claudiu.bulintis@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Stefan-Daniel Ochian,stefan-daniel.ochian@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Stefania Diana Stirbu,stefania-diana.stirbu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Teodor Badarcea,teodor.badarcea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Teodor Leahu,teodor.leahu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Teodora Maximiuc,teodora.maximiuc@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Theodor Cristian Gheorghe,theodor-cristian.gheorghe@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Tiberiu Gabriel Suditu,tiberiu-gabriel.suditu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Tiberiu Iatan,tiberiu.iatan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Tiberiu Rabi,tiberiu.rabi@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Timotei Cristian Morar,timotei-cristian.morar@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Tudor Gabriel Pascaru,tudor-gabriel.pascaru@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Tudor Leonte,tudor.leonte@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Tudor Mihai,tudor.mihai@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Tudor Mihai Iakkel,tudor-mihai.iakkel@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Tudor Muntean,tudor.muntean@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Valentin Alexe,valentin.alexe@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Vasile Meghesan,vasile.meghesan@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Vasile Tudorel Arion,tudor.arion@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Veronica Caplea,veronica.caplea@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Victor Valentin Vladulescu,victor-valentin.vladulescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Virgil Cimpean,virgil.cimpean@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Vlad Andrei Groza,vlad-andrei.groza@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Vlad Badulescu,vlad.badulescu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Vlad Baranceanu,vlad.baranceanu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Vlad Cojocaru,vlad.cojocaru@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Vlad Cristian Brinzas,vlad-cristian.brinzas@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Vlad Ioan Durdeu,vlad-ioan.durdeu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Vlad Ionut Guriuc,vlad-ionut.guriuc@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Vlad Marian Pitariu,vlad-marian.pitariu@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Vlad Muresan,vlad.muresan3@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Vlad V Muresan,vlad.muresan2@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Vlad-Stefan Sas,vlad-stefan.sas@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
+Zoltan Balint,zoltan.balint2@endava.com,JUNIOR,DATA_ENGINEERING,UNKNOWN,DU_DATA
