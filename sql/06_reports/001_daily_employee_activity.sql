@@ -6,7 +6,7 @@ SELECT
     d.full_date AS activity_date,
     at.activity_code,
     at.activity_name,
-    p.project_name,
+    p.project_code AS project_name,
     t.training_name,
     f.hours,
     f.source_system,
@@ -27,5 +27,5 @@ WHERE e.employee_id = :employee_id
 ORDER BY
     d.full_date,
     at.activity_code,
-    p.project_name,
+    p.project_code,
     t.training_name;

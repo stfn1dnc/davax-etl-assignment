@@ -3,7 +3,6 @@ from pathlib import Path
 
 import oracledb
 from dotenv import load_dotenv
-import pytest
 
 
 def get_connection():
@@ -22,7 +21,18 @@ def run_sql_file(connection, file_path, bind_vars=None):
         return cursor.fetchall()
 
 
-@pytest.mark.skip(reason="Blocked until DIM_EMPLOYEE and DIM_PROJECT exist")
+def test_connection_opens():
+    with get_connection() as connection:
+        with connection.cursor() as cursor:
+            cursor.execute(
+                "SELECT USER, SYS_CONTEXT('USERENV', 'CON_NAME') FROM dual"
+            )
+            user, con_name = cursor.fetchone()
+
+    assert user is not None
+    assert con_name is not None
+
+
 def test_daily_activity_report_runs():
     with get_connection() as connection:
         rows = run_sql_file(
@@ -33,7 +43,6 @@ def test_daily_activity_report_runs():
         assert rows is not None
 
 
-@pytest.mark.skip(reason="Blocked until STAGING.STG_TRAINING_PARTICIPANT exists")
 def test_reconciliation_query_runs():
     with get_connection() as connection:
         rows = run_sql_file(
@@ -43,7 +52,6 @@ def test_reconciliation_query_runs():
         assert rows is not None
 
 
-@pytest.mark.skip(reason="Blocked until TARGET.DIM_TRAINING exists in test connection")
 def test_existing_target_tables_can_be_read():
     with get_connection() as connection:
         with connection.cursor() as cursor:
@@ -53,5 +61,5 @@ def test_existing_target_tables_can_be_read():
             cursor.execute("SELECT COUNT(*) FROM target.fact_employee_activity")
             fact_count = cursor.fetchone()[0]
 
-        assert dim_training_count >= 0
-        assert fact_count >= 0
+    assert dim_training_count >= 0
+    assert fact_count >= 0
