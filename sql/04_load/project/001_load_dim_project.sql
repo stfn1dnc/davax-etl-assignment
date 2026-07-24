@@ -2,15 +2,12 @@ MERGE INTO target.dim_project target
 USING
 (
     SELECT DISTINCT
-        UPPER(TRIM(raw.project_code_raw)) AS project_code,
-        raw.dataset_name,
-        MAX(raw.process_timestamp) AS process_timestamp
-    FROM sources.worked_hours_raw raw
-    WHERE raw.project_code_raw IS NOT NULL
-      AND TRIM(raw.project_code_raw) IS NOT NULL
-    GROUP BY
-        UPPER(TRIM(raw.project_code_raw)),
-        raw.dataset_name
+        UPPER(TRIM(project_code_raw)) AS project_code,
+        dataset_name,
+        process_timestamp
+    FROM sources.worked_hours_raw
+    WHERE project_code_raw IS NOT NULL
+      AND TRIM(project_code_raw) IS NOT NULL
 ) source
 ON
 (
