@@ -1,4 +1,4 @@
-from pathlib import Path
+import pathlib
 
 import pandas as pd
 
@@ -22,7 +22,7 @@ def build_employee_master():
     # Read meeting files
     for dataset in MEETING_FILES:
 
-        file_path = Path("data/input") / dataset
+        file_path = pathlib.Path("data/input") / dataset
 
         dataframe = pd.read_csv(
             file_path,
@@ -43,7 +43,7 @@ def build_employee_master():
     # Read timesheet files
     for dataset in TIMESHEET_FILES:
 
-        file_path = Path("data/input") / dataset
+        file_path = pathlib.Path("data/input") / dataset
 
         dataframe = pd.read_csv(
             file_path,
@@ -107,7 +107,7 @@ def build_employee_master():
 
     employee_master["delivery_unit"] = "DU_DATA"
 
-    output_folder = Path("data/generated")
+    output_folder = pathlib.Path("data/generated")
 
     output_folder.mkdir(
         parents=True,
